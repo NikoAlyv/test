@@ -1,0 +1,1 @@
+console.log("Nihad gel gedek");
